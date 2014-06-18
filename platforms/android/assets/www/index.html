@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <!-- Mobile specific meta tags -->
+        <meta name="format-detection" content="telephone=no">
+        <meta name="viewport" content="user-scalable=no,
+            initial-scale=1, maximum-scale=1, minimum-scale=1,
+            width=device-width">
+
+        <!-- Custom stylesheet -->
+        <link rel="stylesheet" type="text/css" href="js/libs/leaflet/leaflet.css">
+        <link rel="stylesheet" type="text/css" href="js/libs/leaflet/leaflet.label.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+        <title>ICT Spring 2013</title>
+
+        <!-- Load PhoneGap Library -->
+        <script type="text/javascript"
+                src="phonegap.js"></script>
+        <!-- Load RequireJS & main script -->
+        <script type="text/javascript"
+                src="js/libs/requirejs/require.js"
+                data-main="js/main"></script>
+    </head>
+    <body>
+        <div id="page-wrapper">
+            <div data-role="menu">
+                <div>
+                <div class="navmenu-header"></div>
+                <ul>
+
+                    <li>
+                        <a href="events.html">
+                            <div class="menu-icon icon-calendar"></div>
+                            <span class="menu-title">Calendar</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="speakers.html">
+                            <div class="menu-icon icon-speakers"></div>
+                            <span class="menu-title">Speakers</span>
+                        </a>
+                    </li>
+                    <li class="separator"></li>
+                    <li>
+                        <a href="exhibitors.html">
+                            <div class="menu-icon icon-exhibitors"></div>
+                            <span class="menu-title">Exhibitors</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="sponsors.html">
+                            <div class="menu-icon icon-sponsors"></div>
+                            <span class="menu-title">Sponsors</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="startups.html">
+                            <div class="menu-icon icon-startups"></div>
+                            <span class="menu-title">Startups</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="map.html">
+                            <div class="menu-icon icon-map"></div>
+                            <span class="menu-title">Map</span>
+                        </a>
+                    </li>
+                    <li class="separator"></li>
+                    <li>
+                        <a href="index.html" style="color: #F00;">
+                            <div class="menu-icon icon-news"></div>
+                            <span class="menu-title">News</span>
+                            <!--<span class="count-items">22</span>-->
+                        </a>
+                    </li>
+                    <li>
+                        <a href="partners.html">
+                            <div class="menu-icon icon-partners"></div>
+                            <span class="menu-title">Partners</span>
+                        </a>
+                    </li>
+                    <li class="separator"></li>
+                    <li>
+                        <a href="infos.html">
+                            <div class="menu-icon icon-infos"></div>
+                            <span class="menu-title">Information</span>
+                        </a>
+                    </li>
+                </ul>
+                <div class="version">Version 1.2.1</div>
+                </div>
+            </div><!-- /menu -->
+            <div data-role="page">
+                <header data-role="header">
+                    <div class="navbar-logo">ICT</div>
+                    <a href="#navmenu-panel"
+                        class="btn-header btn-left btn-no-text navmenu-link"
+                        id="navmenu-link">
+                        Navigation
+                    </a>
+                    <h1>News</h1>
+                </header>
+                <div class="no-internet">
+                    <div class="no-internet-content">
+                        <img src="img/design/icon-warning@2x.png" alt="" width="23" height="23"/> <span>No network connection</span>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+                <div class="loading-wrapper">
+                    <div class="loading">
+                        <p>Loading</p>
+                    </div>
+                </div>
+                <div data-role="content-wrapper">
+                    <div data-role="content-scroller">
+                        <div data-role="content" id="page-index">
+                            <div id="pullDown" class="">
+                                <span class="pullDownIcon"></span>
+                                <span class="pullDownLabel">Pull down to refresh...</span>
+                            </div>
+                            <ul></ul>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /page -->
+        </div><!-- /page-wrapper -->
+    </body>
+</html>

@@ -1,0 +1,17 @@
+#page-exhibitors {
+
+    ul {
+        margin: 0;
+    }
+
+}
+
+#page-exhibitor {
+    .stand a:active {
+        background: rgb(200, 200, 200);
+
+        -moz-border-radius: 3px 3px 3px 3px;
+        -webkit-border-radius: 3px 3px 3px 3px;
+        border-radius: 3px 3px 3px 3px;
+    }
+}

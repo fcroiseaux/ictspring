@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 2492,
+    "number": "S5",
+    "color": false,
+    "village": false,
+    "x": "915",
+    "y": "780",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1766,
+        "name": "Europe4startups",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/E4S.png",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 2472,
+    "number": "C17",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "725",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2473,
+        "name": "Fedil ",
+        "logo": false,
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2471,
+    "number": "A61",
+    "color": false,
+    "village": false,
+    "x": "230",
+    "y": "780",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2470,
+        "name": "Niptech ",
+        "logo": false,
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2375,
+    "number": "A37",
+    "color": false,
+    "village": false,
+    "x": "350",
+    "y": "470",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2252,
+        "name": "Egonocast ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/egonocast_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2376,
+        "name": "WikiApps by WikiFun",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/wiki.jpg",
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2431,
+    "number": "B9",
+    "color": false,
+    "village": false,
+    "x": "350",
+    "y": "920",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2432,
+        "name": "Tucana Telecom",
+        "logo": false,
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2429,
+    "number": "C4",
+    "color": false,
+    "village": false,
+    "x": "660",
+    "y": "1530",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2430,
+        "name": "Kingston",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/Kingston_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2359,
+    "number": "A5",
+    "color": false,
+    "village": false,
+    "x": "1240",
+    "y": "280",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2187,
+        "name": "Greenweaving S.L.",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/greenweqving_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2433,
+        "name": "LazyPub",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/lazy.jpg",
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2367,
+    "number": "A13",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "500",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2203,
+        "name": "Ludique",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/Ludique.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2368,
+        "name": "Xilopix",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/xilopix.jpg",
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2369,
+    "number": "A22",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "465",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2221,
+        "name": "Jellynote",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/jellynote_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2371,
+    "number": "A23",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "400",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2223,
+        "name": "AppAndMap",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/appandmap_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2372,
+        "name": "UPLIKE",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/uplike_ict13.jpg",
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2387,
+    "number": "A55",
+    "color": false,
+    "village": false,
+    "x": "180",
+    "y": "400",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2388,
+        "name": "87 Seconds",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/87sec_ict13.jpg",
+        "days": [
+          "20"
+        ]
+      },
+      {
+        "id": 2284,
+        "name": "Ceevee",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/ceevee.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2377,
+    "number": "A38",
+    "color": false,
+    "village": false,
+    "x": "350",
+    "y": "410",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2378,
+        "name": "Fasterize",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/fastezrize.jpg",
+        "days": [
+          "20"
+        ]
+      },
+      {
+        "id": 2254,
+        "name": "SalesClic",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/salesclic_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2379,
+    "number": "A44",
+    "color": false,
+    "village": false,
+    "x": "60",
+    "y": "410",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2380,
+        "name": "FullComMedia",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/full.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2381,
+    "number": "A46",
+    "color": false,
+    "village": false,
+    "x": "60",
+    "y": "520",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2268,
+        "name": "Affilae",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/affiliate.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2382,
+        "name": "Insydelabs",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/insyde.jpg",
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2383,
+    "number": "A52",
+    "color": false,
+    "village": false,
+    "x": "180",
+    "y": "570",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2278,
+        "name": "Level5",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/level5.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2384,
+        "name": "Lol-school",
+        "logo": false,
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2385,
+    "number": "A54",
+    "color": false,
+    "village": false,
+    "x": "180",
+    "y": "460",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2282,
+        "name": "ilooove.it ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/iloooveit.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2386,
+        "name": "Yupeek",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/yupeek_ict13.jpg",
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2427,
+    "number": "A40",
+    "color": false,
+    "village": false,
+    "x": "225",
+    "y": "310",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2426,
+        "name": "ChatWork Inc ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/chatwork.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2366,
+    "number": "A12",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "440",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2393,
+        "name": "Université du Luxembourg",
+        "logo": false,
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2373,
+    "number": "A33",
+    "color": false,
+    "village": false,
+    "x": "410",
+    "y": "470",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2374,
+        "name": "Applidget",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/applidget.jpg",
+        "days": [
+          "20"
+        ]
+      },
+      {
+        "id": 2243,
+        "name": "Ubeeko",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/ubeeko_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2364,
+    "number": "A11",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "390",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2365,
+        "name": "Cozy Cloud",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/cozy.jpg",
+        "days": [
+          "20"
+        ]
+      },
+      {
+        "id": 2199,
+        "name": "Nearshop",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Nearshop-ICT-Spring.gif",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2362,
+    "number": "A9",
+    "color": false,
+    "village": false,
+    "x": "1190",
+    "y": "500",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2363,
+        "name": "SuperStand",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/superstand_ict13.jpg",
+        "days": [
+          "20"
+        ]
+      },
+      {
+        "id": 2195,
+        "name": "Verifpro",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/verifpro_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2360,
+    "number": "A6",
+    "color": false,
+    "village": false,
+    "x": "1190",
+    "y": "330",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2361,
+        "name": "Etix Group",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/Etix.jpg",
+        "days": [
+          "20"
+        ]
+      },
+      {
+        "id": 2189,
+        "name": "HAKISA",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/hakisa_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2236,
+    "number": "A30",
+    "color": false,
+    "village": false,
+    "x": "430",
+    "y": "100",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2237,
+        "name": "Course Casa",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/course-casa.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2240,
+    "number": "A32",
+    "color": false,
+    "village": false,
+    "x": "408",
+    "y": "515",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2241,
+        "name": "YLM Labs Inc.",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/tapp_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2238,
+    "number": "A31",
+    "color": false,
+    "village": false,
+    "x": "408",
+    "y": "580",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2239,
+        "name": "Abacus",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/abacus_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2244,
+    "number": "A34",
+    "color": false,
+    "village": false,
+    "x": "410",
+    "y": "410",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2245,
+        "name": "Fannabee ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/fanabee_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2246,
+    "number": "A35",
+    "color": false,
+    "village": false,
+    "x": "350",
+    "y": "580",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2247,
+        "name": "CashCloud",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/cashcloud_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2263,
+    "number": "A43",
+    "color": false,
+    "village": false,
+    "x": "60",
+    "y": "350",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2264,
+        "name": "GenCreo",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/gencreo.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2265,
+    "number": "A45",
+    "color": false,
+    "village": false,
+    "x": "60",
+    "y": "450",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2266,
+        "name": "Ignite Hub",
+        "logo": false,
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2279,
+    "number": "A53",
+    "color": false,
+    "village": false,
+    "x": "180",
+    "y": "520",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2280,
+        "name": "Evolita",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/evolita.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2285,
+    "number": "A56",
+    "color": false,
+    "village": false,
+    "x": "230",
+    "y": "400",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2286,
+        "name": "Asial Corporation",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/monaca_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2287,
+    "number": "A57",
+    "color": false,
+    "village": false,
+    "x": "230",
+    "y": "460",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2288,
+        "name": "BHI.INC",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/BHI-INC.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2289,
+    "number": "A58",
+    "color": false,
+    "village": false,
+    "x": "230",
+    "y": "520",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2290,
+        "name": "Nekojarashi Inc",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/neko.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2291,
+    "number": "A59",
+    "color": false,
+    "village": false,
+    "x": "230",
+    "y": "570",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2292,
+        "name": "AddQuality",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/addq.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2293,
+    "number": "A62",
+    "color": false,
+    "village": false,
+    "x": "170",
+    "y": "780",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2294,
+        "name": "Esplorio",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/esplorio_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2299,
+    "number": "A65",
+    "color": false,
+    "village": false,
+    "x": "170",
+    "y": "845",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2300,
+        "name": "Oxford Biochronometrics ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/oxford2.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2297,
+    "number": "A64",
+    "color": false,
+    "village": false,
+    "x": "110",
+    "y": "845",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2298,
+        "name": "Bugscore Ltd.",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/bugscore.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2301,
+    "number": "A66",
+    "color": false,
+    "village": false,
+    "x": "225",
+    "y": "845",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2302,
+        "name": "SmartEatOut",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/smarteatout_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2295,
+    "number": "A63",
+    "color": false,
+    "village": false,
+    "x": "110",
+    "y": "780",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2296,
+        "name": "Splitted-Desktop Systems ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/splitt.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2275,
+    "number": "A51",
+    "color": false,
+    "village": false,
+    "x": "180",
+    "y": "620",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2276,
+        "name": "ScreenFone",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/scrrenphone.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2273,
+    "number": "A50",
+    "color": false,
+    "village": false,
+    "x": "180",
+    "y": "685",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2274,
+        "name": "Gulti ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/gulti_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2271,
+    "number": "A49",
+    "color": false,
+    "village": false,
+    "x": "60",
+    "y": "685",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2272,
+        "name": "Vadequa",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/vadequa.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2269,
+    "number": "A48",
+    "color": false,
+    "village": false,
+    "x": "60",
+    "y": "620",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2270,
+        "name": "Anaximen",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/anaximen.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2261,
+    "number": "A42",
+    "color": false,
+    "village": false,
+    "x": "113",
+    "y": "310",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2262,
+        "name": "Aman Iman Publishing",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/amaniman_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2258,
+    "number": "A41",
+    "color": false,
+    "village": false,
+    "x": "169",
+    "y": "310",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2260,
+        "name": "Cleverphone",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/cleverphone.jpg",
+        "days": [
+          "19"
+        ]
+      },
+      {
+        "id": 2463,
+        "name": "Socialance",
+        "logo": false,
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2255,
+    "number": "A39",
+    "color": false,
+    "village": false,
+    "x": "280",
+    "y": "310",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2256,
+        "name": "NAJMTEK",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Najmtek-ICT-Spring.gif",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2248,
+    "number": "A36",
+    "color": false,
+    "village": false,
+    "x": "350",
+    "y": "520",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2249,
+        "name": "Skeed",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/skeed.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2234,
+    "number": "A29",
+    "color": false,
+    "village": false,
+    "x": "490",
+    "y": "100",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2235,
+        "name": "SevenBoards",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/sevenboards.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2232,
+    "number": "A28",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "140",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2233,
+        "name": "Sharebox",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/Sharebox.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2230,
+    "number": "A27",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "190",
+    "width": false,
+    "height": false,
+    "exhibitors": []
+  },
+  {
+    "id": 2228,
+    "number": "A26",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "250",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2229,
+        "name": "Application Developers Alliance",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/APP_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2226,
+    "number": "A25",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "310",
+    "width": false,
+    "height": false,
+    "exhibitors": []
+  },
+  {
+    "id": 2224,
+    "number": "A24",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "360",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2225,
+        "name": "Transmachina",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/sprawk_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2218,
+    "number": "A21",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "515",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2219,
+        "name": "Twelixir",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/tweixir_ict13.jpg",
+        "days": [
+          "19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2216,
+    "number": "A20",
+    "color": false,
+    "village": false,
+    "x": "540",
+    "y": "580",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2217,
+        "name": "Knowledge Plaza",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/knowledge-plawa.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2214,
+    "number": "A19",
+    "color": false,
+    "village": false,
+    "x": "1350",
+    "y": "390",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2215,
+        "name": "CallingID",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/callingid_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2212,
+    "number": "A18",
+    "color": false,
+    "village": false,
+    "x": "1350",
+    "y": "435",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2213,
+        "name": "Heystack ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/heystack_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2210,
+    "number": "A17",
+    "color": false,
+    "village": false,
+    "x": "1350",
+    "y": "500",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2211,
+        "name": "Folloyu",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/folloyu_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2208,
+    "number": "A16",
+    "color": false,
+    "village": false,
+    "x": "1350",
+    "y": "540",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2209,
+        "name": "Applicat",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/applicat.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2206,
+    "number": "A15",
+    "color": false,
+    "village": false,
+    "x": "1330",
+    "y": "610",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2207,
+        "name": "Kidoria",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/Kidoria_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2204,
+    "number": "A14",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "540",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2205,
+        "name": "Boxcryptor",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/boxycriptor_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2196,
+    "number": "A10",
+    "color": false,
+    "village": false,
+    "x": "1190",
+    "y": "540",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2197,
+        "name": "GreenPocket ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/greenpocket_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2192,
+    "number": "A8",
+    "color": false,
+    "village": false,
+    "x": "1190",
+    "y": "440",
+    "width": false,
+    "height": false,
+    "exhibitors": []
+  },
+  {
+    "id": 2190,
+    "number": "A7",
+    "color": false,
+    "village": false,
+    "x": "1190",
+    "y": "390",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2191,
+        "name": "GiapCom",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/giapcom_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2185,
+    "number": "A4",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "290",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2358,
+        "name": "Citobi",
+        "logo": false,
+        "days": [
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2181,
+    "number": "A3",
+    "color": false,
+    "village": false,
+    "x": "1350",
+    "y": "280",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2180,
+        "name": "Anydoor.Inc",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/Any-Door.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2036,
+    "number": "A60",
+    "color": false,
+    "village": false,
+    "x": "240",
+    "y": "650",
+    "width": false,
+    "height": false,
+    "exhibitors": []
+  },
+  {
+    "id": 2035,
+    "number": "A1",
+    "color": false,
+    "village": false,
+    "x": "1650",
+    "y": "790",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2080,
+        "name": "ITS4U",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/its4u_ict.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1886,
+    "number": "A2",
+    "color": false,
+    "village": false,
+    "x": "1525",
+    "y": "790",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1903,
+        "name": "Connect-on",
+        "logo": false,
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1885,
+    "number": "B10",
+    "color": false,
+    "village": false,
+    "x": "420",
+    "y": "920",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1780,
+        "name": "Optimizely",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/optimizely_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1883,
+    "number": "B8",
+    "color": false,
+    "village": false,
+    "x": "420",
+    "y": "970",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1772,
+        "name": "Inspearit",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/05/inspearit_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1882,
+    "number": "B7",
+    "color": false,
+    "village": false,
+    "x": "350",
+    "y": "970",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1600,
+        "name": "Actimage",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/actimage_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1881,
+    "number": "B6",
+    "color": false,
+    "village": false,
+    "x": "385",
+    "y": "1090",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1902,
+        "name": "ICT Architect",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/ict_architect_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1880,
+    "number": "B5",
+    "color": false,
+    "village": false,
+    "x": "385",
+    "y": "1150",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1901,
+        "name": "Numen Europe",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/numen-europe_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1879,
+    "number": "B4",
+    "color": false,
+    "village": false,
+    "x": "1400",
+    "y": "1350",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1775,
+        "name": "Level 3 Communications",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/LEVEL3_ICT132.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1878,
+    "number": "B3",
+    "color": false,
+    "village": false,
+    "x": "1400",
+    "y": "1400",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1786,
+        "name": "Ricoh",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Ricoh_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1877,
+    "number": "B2",
+    "color": false,
+    "village": false,
+    "x": "1400",
+    "y": "1455",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1900,
+        "name": "TweetWall Pro",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/tweetwallpro_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1876,
+    "number": "B1",
+    "color": false,
+    "village": false,
+    "x": "1400",
+    "y": "1500",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1792,
+        "name": "Telecom Luxembourg Private Operator",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/telecomLux-ICtSpring1.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1875,
+    "number": "C16",
+    "color": false,
+    "village": false,
+    "x": "1170",
+    "y": "725",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1785,
+        "name": "Red Hat",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/RH_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1874,
+    "number": "C15",
+    "color": false,
+    "village": false,
+    "x": "1170",
+    "y": "770",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1767,
+        "name": "Fujitsu",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/fujitsu-ICtSpring1.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1872,
+    "number": "C14",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "775",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1789,
+        "name": "Systemat",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/systemat_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1871,
+    "number": "C13",
+    "color": false,
+    "village": false,
+    "x": "1560",
+    "y": "920",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1754,
+        "name": "Agile Partner",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/AgilePartner_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1870,
+    "number": "C12",
+    "color": false,
+    "village": false,
+    "x": "1560",
+    "y": "970",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1898,
+        "name": "RMS",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/rms_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1869,
+    "number": "C11",
+    "color": false,
+    "village": false,
+    "x": "1468",
+    "y": "953",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1896,
+        "name": "Elgon",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/05/elgon_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1868,
+    "number": "C10",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "1100",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1894,
+        "name": "Optima Networks",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/optima_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1867,
+    "number": "C9",
+    "color": false,
+    "village": false,
+    "x": "1170",
+    "y": "1100",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1759,
+        "name": "DCL Group",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/logo_site_ICTSPRING.gif",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1866,
+    "number": "C8",
+    "color": false,
+    "village": false,
+    "x": "1170",
+    "y": "1165",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1782,
+        "name": "PwC",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/PwC_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1865,
+    "number": "C7",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "1165",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1763,
+        "name": "Charles Kieffer: Groupe CK",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/ck_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1864,
+    "number": "C6",
+    "color": false,
+    "village": false,
+    "x": "385",
+    "y": "1255",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1893,
+        "name": "OneTec Group",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/onetec_ict132.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1863,
+    "number": "C5",
+    "color": false,
+    "village": false,
+    "x": "385",
+    "y": "1323",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1771,
+        "name": "ILP Sadepar",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/ILP_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1862,
+    "number": "C3",
+    "color": false,
+    "village": false,
+    "x": "535",
+    "y": "1480",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1778,
+        "name": "MIXvoip",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/MixVoip_ict132.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1861,
+    "number": "C2",
+    "color": false,
+    "village": false,
+    "x": "535",
+    "y": "1530",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1783,
+        "name": "Reach the First",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/rtf_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1860,
+    "number": "C1",
+    "color": false,
+    "village": false,
+    "x": "657",
+    "y": "1480",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1760,
+        "name": "Digicash",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/digicash_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1859,
+    "number": "D7",
+    "color": false,
+    "village": false,
+    "x": "865",
+    "y": "1100",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1758,
+        "name": "CRP Gabriel Lippmann",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/crpgabriellippman.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1858,
+    "number": "D4",
+    "color": false,
+    "village": false,
+    "x": "865",
+    "y": "1500",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2468,
+        "name": "Realdynamics",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/real-dynamics-ICtSpring1.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1857,
+    "number": "D3",
+    "color": false,
+    "village": false,
+    "x": "965",
+    "y": "1500",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1768,
+        "name": "HP",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/HP_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1856,
+    "number": "D1",
+    "color": false,
+    "village": false,
+    "x": "1500",
+    "y": "1370",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1892,
+        "name": "ActiveMe",
+        "logo": false,
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1855,
+    "number": "S4",
+    "color": false,
+    "village": false,
+    "x": "620",
+    "y": "780",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2530,
+        "name": "Ernst & Young ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/ernst-young.jpg",
+        "days": ""
+      },
+      {
+        "id": 1766,
+        "name": "Europe4startups",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/E4S.png",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1854,
+    "number": "S3",
+    "color": false,
+    "village": false,
+    "x": "1300",
+    "y": "945",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1770,
+        "name": "ILNAS-ANEC",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/LOGO-ilnas-anec-ICtSpring1.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1853,
+    "number": "S2",
+    "color": false,
+    "village": false,
+    "x": "650",
+    "y": "1000",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1781,
+        "name": "P&T Luxembourg",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/pt_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1852,
+    "number": "S1",
+    "color": false,
+    "village": false,
+    "x": "1190",
+    "y": "1400",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2490,
+        "name": "Accenture",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/accenture.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": 2482,
+        "name": "www.ctg.com",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/ctg.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": 1762,
+        "name": "ebrc",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/ebrc_Itdays13.jpg",
+        "days": ""
+      },
+      {
+        "id": 2477,
+        "name": "EMC/VmWare",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/emcvmware.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": 2489,
+        "name": "European Data Centre Association",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/edca_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": 2480,
+        "name": "FLASHiZ",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/flashiz-ICtSpring.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": 2487,
+        "name": "Intech",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/intech.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": 2485,
+        "name": "Key Performance",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2013/06/keyperformance_ict13.jpg",
+        "days": [
+          "19",
+          "20"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1851,
+    "number": "D8",
+    "color": false,
+    "village": false,
+    "x": "965",
+    "y": "1100",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 2079,
+        "name": "CRP Henri Tudor",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Tudor_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1847,
+    "number": "E5",
+    "color": false,
+    "village": false,
+    "x": "1170",
+    "y": "945",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1889,
+        "name": "Cases",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/caseslogo_ict13.jpg",
+        "days": ""
+      },
+      {
+        "id": 1890,
+        "name": "CIRCL - Computer Incident Response Center Luxembourg",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Circl_ict13.jpg",
+        "days": ""
+      },
+      {
+        "id": 1891,
+        "name": "Luxinnovation",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Luxinno_ict13.jpg",
+        "days": ""
+      },
+      {
+        "id": 1835,
+        "name": "Ministère de l'Économie et du Commerce extérieur",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Mineco_ict13.jpg",
+        "days": ""
+      },
+      {
+        "id": 1888,
+        "name": "Ministry of State",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/ministrystate_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1846,
+    "number": "E4",
+    "color": false,
+    "village": false,
+    "x": "915",
+    "y": "945",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1787,
+        "name": "Secure IT",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/SecureIT_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1840,
+    "number": "E3",
+    "color": false,
+    "village": false,
+    "x": "915",
+    "y": "1200",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1756,
+        "name": "Clearstream Services",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/clearstream_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1839,
+    "number": "E2",
+    "color": false,
+    "village": false,
+    "x": "680",
+    "y": "1300",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1790,
+        "name": "Tango",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/tango_ict13.jpg",
+        "days": ""
+      },
+      {
+        "id": 1793,
+        "name": "Telindus",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/Telindus_ict13.jpg",
+        "days": ""
+      }
+    ]
+  },
+  {
+    "id": 1837,
+    "number": "E1",
+    "color": false,
+    "village": false,
+    "x": "1530",
+    "y": "1480",
+    "width": false,
+    "height": false,
+    "exhibitors": [
+      {
+        "id": 1755,
+        "name": "Awex",
+        "logo": "http://www.ictspring.com/wp-content/uploads/2012/10/awexICtSpring1.jpg",
+        "days": ""
+      }
+    ]
+  }
+]

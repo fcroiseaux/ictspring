@@ -1,0 +1,178 @@
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    
+    position: absolute;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+
+    width:100%;
+    height:100%;
+
+    background: #000;
+
+    font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+}
+
+
+#page-wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    overflow: hidden;
+
+    width: 100%;
+}
+
+[data-role="menu"] {
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    bottom: 0;
+
+    width: 100%;
+
+    color: #FFF;
+    background: #444;
+}
+
+[data-role="page"] {
+    position: absolute;
+    z-index: 200;
+    top: 0;
+    bottom: 0;
+    overflow: hidden;
+
+    width: 100%;
+
+    color: #000;
+    background: white url('../img/design/subtle_dots.png');
+}
+
+[data-role="page"] [data-role="header"] {
+    width: 100%;
+    height: 2.75em;
+    line-height: 2.75em;
+    text-align: center;
+    background: transparent url('../img/design/bg-navbar.png') repeat-x;
+
+    -webkit-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.18);
+    -moz-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.18);
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.18);
+
+    h1 {
+        font-family: 'Intro';
+        font-size: 1.125em;
+        font-weight: normal;
+
+        color: #FFFFFF;
+        text-shadow: 0px -1px 0px $titleShadowColor;
+        line-height: 2.75em;
+    }
+
+    a.navmenu-link {
+        width: 1.875em;
+        height: 1.875em;
+        border: 0;
+
+        background: url('../img/design/btn-navigation.png') no-repeat;
+        text-shadow: none;
+        box-shadow: none;
+    }
+
+    a.btn-back {
+        position: absolute;
+        top: 0.5em;
+        left: 0.4em;
+        color: #FFF;
+        font-weight: bold;
+        line-height: 2.3em;
+        font-size: 0.875em;
+        width: 51px;
+        height: 31px;
+        text-indent: 0.5em;
+        background: url('../img/design/btn-back.png') no-repeat;
+    }
+
+    div.navbar-logo {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 41px;
+        height: 43px;
+        text-indent: -9999px;
+        background: url('../img/design/icon-ict.png') no-repeat;   
+    }
+}
+
+@media only screen and (-moz-min-device-pixel-ratio: 1.5),
+       only screen and (-o-min-device-pixel-ratio: 3/2),
+       only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5) {
+    [data-role="page"] {
+        background: white url('../img/design/subtle_dots@2x.png');
+    }
+
+    div[data-role="page"] [data-role="header"] {
+        background: transparent url('../img/design/bg-navbar@2x.png') repeat-x;
+        background-position: center;
+        background-size: contain;
+
+        a.navmenu-link {
+            background: url('../img/design/btn-navigation@2x.png') no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+
+        a.btn-back {
+            background: url('../img/design/btn-back@2x.png') no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+
+        div.navbar-logo {
+            background: url('../img/design/icon-ict@2x.png') no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+    }
+}
+
+.btn-header {
+    position: absolute;
+    width: 2em;
+    height: 2em;
+    background: #aaa;
+}
+
+.btn-left {
+    top: 0.5em;
+    left: 0.4em;
+}
+
+.btn-no-text {
+    text-indent: -9999px;
+}
+
+[data-role="content-wrapper"] {
+    position: absolute;
+    top: 2.75em;
+    bottom: 0;
+
+    width: 100%;
+    
+    color: black;
+
+    &.dark-background {
+        background: #000;
+    }
+}
+
+[data-role="content-wrapper"] [data-role="content-scroller"] {
+    width: 100%;
+    height: auto;
+}

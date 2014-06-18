@@ -1,0 +1,120 @@
+#page-speakers {
+    
+    div[data-role="content-wrapper"] {
+        background: #000;
+    }
+
+    #speakers-list-view {
+
+        li {
+            position: relative;
+            display: block;
+            float: left;
+
+            text-align: center;
+            margin: 1em 0.0em;
+            width: 33%;
+            min-height: 8.75em;
+            max-height: 8.75em;
+        }
+        
+        .speaker-mask {
+            position: absolute;
+            background: url('../img/design/mask-speaker.png') no-repeat center;
+            width: 100%;
+            height: 66px;
+        }
+
+        .speaker-name {
+            color: #FFF;
+            font-family: 'HelveticaNeue-Bold';
+            font-size: 0.75em;
+            font-weight: bold;
+            max-width: 80%;
+            margin: 0 auto;
+        }
+
+        .company-name {
+            color: #e82b32;
+            font-family: 'HelveticaNeue';
+            font-size: 0.625em;
+            max-width: 80%;
+            margin: 0 auto;
+        }
+    }
+
+}
+
+#page-speaker {
+
+    header, article {
+        margin: 0 auto;
+        padding: 5% 5% 5% 5%;
+        width: 90%;
+    }
+
+    header {
+        background: white;
+        min-height: 3.75em;
+
+        -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.3);
+        box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.3);
+
+        .speaker-mask {
+            position: absolute;
+            background: url('../img/design/mask-speaker-white.png') no-repeat center;
+            width: 66px;
+            height: 66px;
+        }
+
+        img, .info {
+            float: left;
+        }
+
+        .info {
+            width: 70%;
+            margin: 0 0 0 5%;
+        }
+
+        .info .position {
+            font-weight: lighter;
+        }
+
+        h3 {
+            margin: 0;
+            padding: 0;
+            font-size: 0.8em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+            margin: 0;
+            padding: 0;
+            color: $redColor;
+        }
+    }
+
+    article {
+        clear: both;
+        padding-bottom: 5%;
+    }
+
+}
+
+@media only screen and (-moz-min-device-pixel-ratio: 1.5),
+       only screen and (-o-min-device-pixel-ratio: 3/2),
+       only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5) {
+    #page-speaker header .speaker-mask {
+        background: url('../img/design/mask-speaker-white@2x.png') no-repeat center;
+        background-position: center;
+        background-size: contain;
+    }
+
+    #page-speakers #speakers-list-view .speaker-mask {
+        background: url('../img/design/mask-speaker@2x.png') no-repeat center;
+        background-position: center;
+        background-size: contain;
+    }
+}

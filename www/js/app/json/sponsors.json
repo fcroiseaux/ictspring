@@ -1,0 +1,506 @@
+{
+  "Diamond": [
+    {
+      "id": 1650,
+      "company": "Clearstream Services",
+      "logo_url": "img/mockup/clearstream@2x.png",
+      "company_url": "http://www.clearstream.com",
+      "description": "We offer a full range of Data Centre, Application Hosting, Co-Location and I.T. Managed Services technology solutions to the international financial sector. With around 500 IT specialists in Luxembourg, Clearstream Services successfully delivers global IT solutions in the following domains:<br />\r\n• Data Centre Hosting, with 24*7*365 availability<br />\r\n• System and Storage Management<br />\r\n• Network Management<br />\r\n• Data Management<br />\r\n• Security<br />\r\n• Full IT Operations<br />\r\n• Application Management<br />\r\n• Service Level Management<br />\r\n• Dedicated multi-lingual Service Desk<br />\r\n• Disaster Recovery Planning<br />\r\n• ASP and SaaS solutions oriented to the Financial Services Industry",
+      "type": "Diamond"
+    },
+    {
+      "id": 1658,
+      "company": "Europe4startups",
+      "logo_url": "img/mockup/europe4startups@2x.png",
+      "company_url": "http://www.europe4startups.com",
+      "description": "Europe4Startups is a non-profit organisation which offers 12 months&#039; worth of unconditional, first-class cloud, networking and business services for free. The objective is to help promising Internet focused start-ups to launch and test their activity in Europe with very limited risk, expenses or commitment. Europe4Startups has teamed up with a number of key players in their respective industries to set up a wide range of services including cloud and network services, business and tax consulting, marketing channels, easy access to the national authorities and research networks, etc.<br />\r\nThis package will be granted to only 12 dynamic companies per year. Eligible businesses must offer e-services, e-selling, broadcasting, e-gaming or e-media, and their activity must be geared up to yield high added-value and produce fast and durable growth. Europe4Startups&#039; unique approach can be easily implemented and optimizes the chances for a successful business launch in Europe.",
+      "type": "Diamond"
+    },
+    {
+      "id": 1659,
+      "company": "P&T Luxembourg",
+      "logo_url": "img/mockup/ptlux@2x.png",
+      "company_url": "http://www.pt.lu",
+      "description": "Currently no description.",
+      "type": "Diamond"
+    },
+    {
+      "id": 1660,
+      "company": "Secure IT",
+      "logo_url": "img/mockup/secureit@2x.png",
+      "company_url": "http://www.secureit.lu",
+      "description": "Currently no description.",
+      "type": "Diamond"
+    }
+  ],
+  "Platinum": [
+    {
+      "id": 1661,
+      "company": "AWEX – WALLONIA FOREIGN TRADE AND INVESTMENT AGENCY",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/awexICtSpring1.jpg",
+      "company_url": "http://www.investinwallonia.be",
+      "description": "With headquarters in Brussels and a network of 105 offices worldwide, Awex is a service provider for Wallonia based companies seeking to export, for foreign investors seeking the best place to establish their company, and for all local business communities.<br />\r\n<br />\r\nAs a foreign trade agency, AWEX assists buyers, decision-makers, importers and foreign prospects by:<br />\r\n<br />\r\n• Providing economic data on Wallonia and its export potential<br />\r\n• Disseminating information on products and services from companies located in Wallonia<br />\r\n• Identifying companies in Wallonia for international partnerships<br />\r\n• Distributing lists of exporters from Wallonia<br />\r\n<br />\r\nAs a foreign investment agency, AWEX – via its Office for Foreign Investors (OFI) – has an overall responsibility for the attraction of foreign investment in Wallonia. This includes seeking out and providing information to potential foreign investors. The Agency also offers a pro-active follow-up service to investors already established in Wallonia.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1662,
+      "company": "CRP Gabriel Lippmann",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/crpgabriellippman.jpg",
+      "company_url": "http://www.crpgl.lu",
+      "description": "Currently no description.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1663,
+      "company": "ebrc",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/ebrc_Itdays13.jpg",
+      "company_url": "http://www.ebrc.com",
+      "description": "ebrc’s vision is to become a European Centre of Excellence in the management of Sensitive Information by guaranteeing a unique “One-Stop-Shop” offering end-to-end ICT Trusted Services.<br />\r\n<br />\r\n<br />\r\n<br />\r\nebrc Service Portfolio is built around five strategic, integrated and global offers:<br />\r\n<br />\r\n<br />\r\n<br />\r\nTrusted ICT Managed Services<br />\r\n<br />\r\nICT Agile services to boost your business<br />\r\n<br />\r\nEnd-to-end management of sensitive ICT infrastructures, from the architecture design and the implementation to the daily operations and future developments.<br />\r\n<br />\r\n<br />\r\n<br />\r\nTrusted Cloud Europe Services<br />\r\n<br />\r\nTechnology as a Service, enabling fast &amp; secure business deployment<br />\r\n<br />\r\nFlexible infrastructure management through Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) solutions as well as Trusted Back-up &amp; Restore Services.<br />\r\n<br />\r\n<br />\r\n<br />\r\nTrusted Resilience Services<br />\r\n<br />\r\nOvercome increasing risks and uncertainty<br />\r\n<br />\r\nDesign, implementation and management of Business Continuity Solutions coupled with the management of ICT security based on resilient infrastructures.<br />\r\n<br />\r\n<br />\r\n<br />\r\nTrusted Advisory Services<br />\r\n<br />\r\nTurning business challenges into competitive advantages<br />\r\n<br />\r\nGuidance and advisory in management of ICT risks and ICT Outsourcing.<br />\r\n<br />\r\n<br />\r\n<br />\r\nTrusted Data Centre Services<br />\r\n<br />\r\nAn advanced ICT environment to support your business<br />\r\n<br />\r\nFull Data Centre Services based on redundant Tier IV infrastructures for maximum security and availability.<br />\r\n<br />\r\n<br />\r\n<br />\r\nebrc Trusted Services are based on:<br />\r\n<br />\r\n- Tier IV certified Data Centres<br />\r\n<br />\r\n- ISO 27001 (Information Security standard) certification<br />\r\n<br />\r\n- ISO 20000 (IT Service Management standard) certification<br />\r\n<br />\r\n- PCI-DSS (Payment Card Industry-Data Security Standard) certification<br />\r\n<br />\r\n<br />\r\n<br />\r\nIn the framework of the PFS (Professional of the Financial Sector) status, ebrc meets the requirements of the CSSF (Commission de Surveillance du Secteur Financier in Luxembourg), and is therefore allowed to operate ICT services for banks, financial institutions and investment fund companies. These qualities and security requirements are considered as best practices within ebrc and are to be met for any client managing sensitive information (e-commerce, hospitals &amp; bio banks, international institutions, public sector, industry, SMB, etc.).<br />\r\n<br />\r\nFrom Data Centre Services to integrated Cloud Computing and ICT Managed Services, ebrc ensures the end-to-end warranty of its Clients’ business andpromotes Luxembourg as the European capital of Business Resilience and ICT Trusted Services.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1664,
+      "company": "Ernst & Young",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/EY_ict13.jpg",
+      "company_url": "http://www.ey.com",
+      "description": "Ernst &amp; Young is a global leader in assurance, tax, transaction and advisory services. Worldwide, our 152 000 people are united by our shared values and an unwavering commitment to quality.<br />\r\nWe make a difference by helping our people, our clients and our wider communities achieve their potential.<br />\r\n<br />\r\nErnst &amp; Young refers to the global organization of member firms of Ernst &amp; Young Global Limited, each of which is a separate legal entity. Ernst &amp; Young Global Limited, a UK company limited by guarantee, does not provide services to clients.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1665,
+      "company": "HP",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/HP_ict13.jpg",
+      "company_url": "http://www.hp.be",
+      "description": "HP makes technology work for you.<br />\r\n<br />\r\nThe world’s largest technology company, HP brings together a portfolio that spans printing, personal computing, software, services and IT infrastructure at the convergence of the cloud and connectivity, creating seamless, secure, context-aware experiences for a connected world.<br />\r\n<br />\r\nNo other company offers as complete a technology product portfolio as HP. We provide infrastructure and business offerings that span from handheld devices to some of the world&#039;s most powerful supercomputer installations. We offer consumers a wide range of products and services from digital photography to digital entertainment and from computing to home printing. This comprehensive portfolio helps us match the right products, services and solutions to our customers&#039; specific needs. Scale IT performance with stunning efficiency. Deliver new applications and services in minutes instead of months. The result is an enterprise made more dynamic, flexible, and cost-efficient than ever before.<br />\r\n<br />\r\nFast facts<br />\r\nHewlett-Packard Company (NYSE: HPQ).<br />\r\nDate of foundation: 1939<br />\r\nCorporate headquarters are in Palo Alto, California (US)<br />\r\nMeg Whitman is CEO and President.<br />\r\nHP serves more than 1 billion customers in more than 170 countries on 6 continents.<br />\r\nHP has approximately 331,800 employees worldwide.<br />\r\nHP&#039;s 2012 Fortune 500 ranking: No. 10<br />\r\nHP&#039;s revenue for the four fiscal quarters ended Oct. 31, 2012: $120.4 billion.<br />\r\n<br />\r\nSite in Luxembourg: Hewlett-Packard Luxembourg s.c.a. – 75, Parc d&#039;activité Capellen – 8308 Capellen<br />\r\nWebsite: www.hp.be<br />\r\nE-mail: hpinfo [at] hp [dot] com<br />\r\nStaff in Luxembourg as from 1st January 2013: 72<br />\r\nView more info. Visit the HP Newsroom.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1666,
+      "company": "REALDYNAMICS",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/real-dynamics-ICtSpring1.jpg",
+      "company_url": "http://www.realdynamics.tv",
+      "description": "Currently no description.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1668,
+      "company": "Tango",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/tango_ict13.jpg",
+      "company_url": "http://www.tango.lu",
+      "description": "Tango is Luxembourg’s leading operator offering both fixed and mobile telephony, Internet as well as services in the entertainment area with tango generation, offering a hundred TV channels and much more… With a wide portfolio of products effectively tailored to meet the needs of all of the company’s general public and business customers, Tango is now the first choice for more than 273,000 customers.<br />\r\n<br />\r\nSince starting out in 1998, Tango has engaged in a policy of innovation which has helped to find the right responses to the company’s customers’ needs in terms of quality of service at the best possible price. Thanks to this policy, Tango was the first mobile player in Luxembourg to launch a complete 4G offer for business as well as public customers. Tango also innovate in the SOHO sector with the recent launch of Tango Clever Call, a cloud telephony solution specially designed for small and medium enterprises.<br />\r\n<br />\r\nTango has been a member of the Belgacom Group since 2008, thus giving the company even more of an international dimension. In collaboration with Telindus Luxembourg, a Belgacom subsidiary and ICT specialist, Tango continues its development of the B2B sector.<br />\r\n<br />\r\nThe partnership concluded with Vodafone allows Tango to offer highly competitive tariffs for calls made from abroad along with a huge range of cutting edge high-tech offers and services.",
+      "type": "Platinum"
+    },
+    {
+      "id": 1669,
+      "company": "Telindus",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Telindus_ict13.jpg",
+      "company_url": "http://www.telindus.lu",
+      "description": "http://www.telindus.lu<br />\r\nhttp://telindustelecom.lu",
+      "type": "Platinum"
+    }
+  ],
+  "Gold": [
+    {
+      "id": 1670,
+      "company": "MIXvoip",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/MixVoip_ict132.jpg",
+      "company_url": "http://www.mixvoip.com",
+      "description": "Mixvoip provides your company with telephony infrastructure as well as enables and optimizes your communication flows.<br />\r\n<br />\r\nMixvoip is active on the professional market in Luxembourg and abroad.<br />\r\n<br />\r\nTelephony Services<br />\r\nMixvoip is delivering telephony systems based on its self developed Mixpbx customisable to your needs.<br />\r\nWith its self developed Mixpbx, Mixvoip is able to cater to all your specific telephony needs in a standard or customizable way.<br />\r\n<br />\r\nOperator Services<br />\r\nMixvoip is a certified and registered operator in Luxembourg offering voice and data services.",
+      "type": "Gold"
+    },
+    {
+      "id": 1671,
+      "company": "Reach the First",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/rtf_ict13.jpg",
+      "company_url": "http://www.reachthefirst.com",
+      "description": "Currently no description.",
+      "type": "Gold"
+    },
+    {
+      "id": 1672,
+      "company": "Vanksen",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/vanks_ict13.jpg",
+      "company_url": "http://www.vanksen.com",
+      "description": "Currently no description.",
+      "type": "Gold"
+    }
+  ],
+  "Silver": [
+    {
+      "id": 1673,
+      "company": "Charles Kieffer: Groupe CK",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/ck_ict13.jpg",
+      "company_url": "http://www.ck-online.lu ",
+      "description": "Currently no description.",
+      "type": "Silver"
+    },
+    {
+      "id": 1674,
+      "company": "Digicash",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/digicash_ict13.jpg",
+      "company_url": "http://www.digicash.lu",
+      "description": "Currently no description.",
+      "type": "Silver"
+    },
+    {
+      "id": 1675,
+      "company": "DCL Group",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/logo_site_ICTSPRING.gif",
+      "company_url": "http://www.dclgroup.eu",
+      "description": "Headquartered in Luxembourg, DCL Group is a leading Internet and e-commerce company, made up of Datacenter Luxembourg, EuroDNS and LuxCloud. <br />\r\n<br />\r\nFounded in 2000, Datacenter Luxembourg is a leading multi-tier colocation provider, with high speed Internet connectivity and Private – Hybrid - Public cloud services empowering businesses online..<br />\r\n<br />\r\nCreated in 2002, EuroDNS is a leading domain name registrar specializing in international domain extensions. EuroDNS offers over 350 domain extensions positioning itself as one of the market leaders in the domain industry.<br />\r\n<br />\r\nFounded in 2010, LuxCloud is the leading global channel-centric marketplace for cloud services, allowing sales and software partners to successfully launch and deliver the cloud services demanded by SMBs",
+      "type": "Silver"
+    },
+    {
+      "id": 1676,
+      "company": "Fujitsu",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/fujitsu-ICtSpring1.jpg",
+      "company_url": "http://www.fujitsu.com",
+      "description": "Currently no description.",
+      "type": "Silver"
+    },
+    {
+      "id": 1677,
+      "company": "Optima Networks",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/optima_ict13.jpg",
+      "company_url": "http://www.optimanetworks.be",
+      "description": "Currently no description.",
+      "type": "Silver"
+    },
+    {
+      "id": 1678,
+      "company": "PwC",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/PwC_ict13.jpg",
+      "company_url": "http://www.pwc.lu",
+      "description": "Currently no description.",
+      "type": "Silver"
+    },
+    {
+      "id": 1679,
+      "company": "Red Hat",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/RH_ict13.jpg",
+      "company_url": "http://www.redhat.com",
+      "description": "Currently no description.",
+      "type": "Silver"
+    },
+    {
+      "id": 1680,
+      "company": "CRP Henri Tudor",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Tudor_ict13.jpg",
+      "company_url": "http://www.tudor.lu",
+      "description": "Currently no description.",
+      "type": "Silver"
+    }
+  ],
+  "Bronze": [
+    {
+      "id": 2515,
+      "company": "Accenture",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2013/06/accenture.jpg",
+      "company_url": "http://",
+      "description": "",
+      "type": "Bronze"
+    },
+    {
+      "id": 1681,
+      "company": "Actimage",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/actimage_ict13.jpg",
+      "company_url": "http://www.actimage.fr",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1682,
+      "company": "Agile Partner",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/AgilePartner_ict13.jpg",
+      "company_url": "http://www.agilepartner.net",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1683,
+      "company": "Cibit",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/cibit_ict13.jpg",
+      "company_url": "http://www.cibit.lu",
+      "description": "Because today’s increasingly competitive environment makes it difficult for companies to survive due to constraints and limitations of their IT systems, inspearit (170 consultants worlwide : France, Holland, Italy, Asia) offers advisory and education services adressing notably :<br />\r\n- Agile and Lean practices to make the teams highly focused to the business results<br />\r\n- Architecture in order to align Business and IT<br />\r\n- Process improvement for a better performance<br />\r\n- Technical Debt and IT Wealth Management in order to improve IT investments<br />\r\nEducation services are branded under the label of cibit academy, number one provider in the Netherlands. ",
+      "type": "Bronze"
+    },
+    {
+      "id": 2511,
+      "company": "ctg",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2013/06/ctg.jpg",
+      "company_url": "http://www.ctg.com",
+      "description": "",
+      "type": "Bronze"
+    },
+    {
+      "id": 1684,
+      "company": "European Data Centre Association",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/edca_ict13.jpg",
+      "company_url": "http://www.eudca.org",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 2505,
+      "company": "FLASHiZ ",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2013/06/flashiz-ICtSpring.jpg",
+      "company_url": "http://www.flashiz.com/fr/",
+      "description": "",
+      "type": "Bronze"
+    },
+    {
+      "id": 1685,
+      "company": "ILNAS-ANEC",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/LOGO-ilnas-anec-ICtSpring1.jpg",
+      "company_url": "http://www.ilnas.lu",
+      "description": "ILNAS is the Luxembourg’s National Standards Body which aims to better support the national economy in terms of competitiveness, visibility and performance; promote a homogenous standardization culture at national level; improve the international position of Luxembourg in standardization organizations and launch an innovative and federative way for the national standardization process. ILNAS, with the support of the Agency for standardization and knowledge-based economy (ANEC), offers different services such as searching and ordering standards, getting involved in standardization, following conferences and training courses, developing a sector-based approach, leading national research activities. For more information, contact us normalisation [at] ilnas [dot] etat [dot] lu ; anec [at] ilnas [dot] etat [dot] lu and visit our website www.ilnas.lu",
+      "type": "Bronze"
+    },
+    {
+      "id": 1686,
+      "company": "Inspearit",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/inspearit_ict131.jpg",
+      "company_url": "http://www.inspearit.com",
+      "description": "Because today’s increasingly competitive environment makes it difficult for companies to survive due to constraints and limitations of their IT systems, inspearit (170 consultants worlwide : France, Holland, Italy, Asia) offers advisory and education services adressing notably :<br />\r\n- Agile and Lean practices to make the teams highly focused to the business results<br />\r\n- Architecture in order to align Business and IT<br />\r\n- Process improvement for a better performance<br />\r\n- Technical Debt and IT Wealth Management in order to improve IT investments<br />\r\nEducation services are branded under the label of cibit academy, number one provider in the Netherlands. ",
+      "type": "Bronze"
+    },
+    {
+      "id": 2498,
+      "company": "InTech",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2013/06/intech.jpg",
+      "company_url": "http://www.intech.lu/",
+      "description": "",
+      "type": "Bronze"
+    },
+    {
+      "id": 1687,
+      "company": "ILP Sadepar",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/ILP_ict13.jpg",
+      "company_url": "http://www.ilp-sadepar.com",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1973,
+      "company": "Key Performance",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2013/06/keyperformance_ict13.jpg",
+      "company_url": "http://www.key-performance.eu",
+      "description": "Currently no description",
+      "type": "Bronze"
+    },
+    {
+      "id": 1688,
+      "company": "Level 3 Communications",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/LEVEL3_ICT132.jpg",
+      "company_url": "http://www.level3.com",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1689,
+      "company": "Numen Europe",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/numen-europe_ict13.jpg",
+      "company_url": "http://www.numen.fr",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1690,
+      "company": "OneTec Group",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/onetec_ict132.jpg",
+      "company_url": "http://www.onetec.eu",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1691,
+      "company": "Ricoh",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Ricoh_ict13.jpg",
+      "company_url": "http://www.ricoh.com",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1692,
+      "company": "RMS",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/rms_ict13.jpg",
+      "company_url": "http://rms.lu",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1693,
+      "company": "Systemat",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/systemat_ict13.jpg",
+      "company_url": "http://www.systemat.lu",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    },
+    {
+      "id": 1694,
+      "company": "Telecom Luxembourg Private Operator",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/telecomLux-ICtSpring1.jpg",
+      "company_url": "http://www.telecomluxembourg.com",
+      "description": "Currently no description.",
+      "type": "Bronze"
+    }
+  ],
+  "Exhibitors": [
+    {
+      "id": 1913,
+      "company": "Cashcloud",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/cashcloud_ict13.jpg",
+      "company_url": "http://www.cashcloud.com",
+      "description": "Currently no description.",
+      "type": "Exhibitors"
+    },
+    {
+      "id": 1695,
+      "company": "ICT Architect",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/ict_architect_ict13.jpg",
+      "company_url": "http://www.ictarchitect.be",
+      "description": "Currently no description.",
+      "type": "Exhibitors"
+    },
+    {
+      "id": 1696,
+      "company": "Optimizely",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/optimizely_ict13.jpg",
+      "company_url": "http://www.optimizely.com",
+      "description": "Currently no description.",
+      "type": "Exhibitors"
+    }
+  ],
+  "Branding Sponsor": [
+    {
+      "id": 1697,
+      "company": "Liberty Technology Park Cluj",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/libertyTechnologyPark_logo_ict13.jpg",
+      "company_url": "http://www.libertytechpark.com",
+      "description": "Currently no description.",
+      "type": "Branding Sponsor"
+    }
+  ],
+  "Special Thanks To": [
+    {
+      "id": 1698,
+      "company": "Cases",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/caseslogo_ict13.jpg",
+      "company_url": "http://www.cases.lu",
+      "description": "Currently no description.",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1699,
+      "company": "CIRCL - Computer Incident Response Center Luxembourg",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Circl_ict13.jpg",
+      "company_url": "http://www.circl.lu",
+      "description": "Currently no description.",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1700,
+      "company": "Luxembourg for Business",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Lux4Biz_ict13.jpg",
+      "company_url": "http://www.luxembourgforbusiness.lu",
+      "description": "Currently no description.",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1701,
+      "company": "Luxembourg ICT Cluster",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/cluster_ict13.jpg",
+      "company_url": "http://www.ictcluster.lu",
+      "description": "Currently no description.",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1702,
+      "company": "Ministry of Communications and Media",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/ministrystate_ict13.jpg",
+      "company_url": "http://www.mediacom.public.lu",
+      "description": "Service des médias et des communications<br />\r\n<br />\r\nThe Media and Communications Department of the Luxembourg Ministry of State is assisting the responsible minister with the definition and implementation of media and electronic communications policy.<br />\r\n<br />\r\n5, rue Large<br />\r\nL-1917 Luxembourg<br />\r\nTel. +352 247 -82167<br />\r\nwww.mediacom.public.lu<br />\r\nE-mail: info [at] mediacom [dot] public [dot] lu",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1703,
+      "company": " Ministry of the Economy and Foreign Trade ",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Mineco_ict13.jpg",
+      "company_url": "http://www.eco.public.lu",
+      "description": "The Ministry of the Economy and Foreign Trade is assisting start-ups in the field of ICT with the establishment and development of their business in Luxembourg. The Ministry is further in charge to help and inform companies as well as citizens in the domains of e-commerce, e-signature, e-archiving and information security.<br />\r\n<br />\r\n19-21, boulevard Royal<br />\r\nL-2449 Luxembourg<br />\r\nB.P.L-2914 Luxembourg<br />\r\ne-mail : info [at] eco [dot] public [dot] lu<br />\r\nwww.eco.public.lu",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1704,
+      "company": "Technoport",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/Technoport_ict13.jpg",
+      "company_url": "http://www.technoport.lu",
+      "description": "Currently no description.",
+      "type": "Special Thanks To"
+    },
+    {
+      "id": 1705,
+      "company": "Ville de Luxembourg",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/VDL_ict13.jpg",
+      "company_url": "http://www.vdl.lu",
+      "description": "Currently no description.",
+      "type": "Special Thanks To"
+    }
+  ],
+  "Dinner Sponsors - Gold": [
+    {
+      "id": 1706,
+      "company": "Clearstream Services",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/clearstream_ict13.jpg",
+      "company_url": "http://www.clearstream.com",
+      "description": "We offer a full range of Data Centre, Application Hosting, Co-Location and I.T. Managed Services technology solutions to the international financial sector. With around 500 IT specialists in Luxembourg, Clearstream Services successfully delivers global IT solutions in the following domains:<br />\r\n• Data Centre Hosting, with 24*7*365 availability<br />\r\n• System and Storage Management<br />\r\n• Network Management<br />\r\n• Data Management<br />\r\n• Security<br />\r\n• Full IT Operations<br />\r\n• Application Management<br />\r\n• Service Level Management<br />\r\n• Dedicated multi-lingual Service Desk<br />\r\n• Disaster Recovery Planning<br />\r\n• ASP and SaaS solutions oriented to the Financial Services Industry",
+      "type": "Dinner Sponsors - Gold"
+    }
+  ],
+  "Dinner Sponsors - Silver": [
+    {
+      "id": 1707,
+      "company": "Oracle",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/oracle_ict13.jpg",
+      "company_url": "http://www.oracle.com",
+      "description": "Currently no description.",
+      "type": "Dinner Sponsors - Silver"
+    }
+  ],
+  "Dinner Sponsors - Bronze": [
+    {
+      "id": 1708,
+      "company": "Schneider Electric",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/schneider_ict13.jpg",
+      "company_url": "http://www.schneider-electric.com",
+      "description": "Currently no description.",
+      "type": "Dinner Sponsors - Bronze"
+    }
+  ],
+  "Digital Careers Expo": [
+    {
+      "id": 1709,
+      "company": "P&T LUXGSM",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/pt_ict131.jpg",
+      "company_url": "http://www.pt.lu",
+      "description": "Currently no description.",
+      "type": "Digital Careers Expo"
+    },
+    {
+      "id": 1710,
+      "company": "ING",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/ing_ict13.jpg",
+      "company_url": "http://www.ing.com",
+      "description": "Currently no description.",
+      "type": "Digital Careers Expo"
+    },
+    {
+      "id": 1713,
+      "company": "Vision IT Group",
+      "logo_url": "http://www.ictspring.com/wp-content/uploads/2012/10/visionit_ict13.jpg",
+      "company_url": "http://www.visionitgroup.com",
+      "description": "Currently no description.",
+      "type": "Digital Careers Expo"
+    }
+  ]
+}

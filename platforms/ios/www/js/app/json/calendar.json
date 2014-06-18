@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "title": "Wikipédia Conference",
+    "type": "Conference",
+    "color": "#123456",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Jimmy Wales - Wikipédia"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-19T10:00",
+    "end_datetime": "2013-06-19T11:00"
+  },
+  {
+    "id": 2,
+    "title": "Mobile Conference",
+    "type": "Conference",
+    "color": "#874422",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Trip Hawkins - Digital Chocolate"
+      },
+      {
+        "id": 2,
+        "name": "Volker Hirsch - Blackberry"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-19T10:00",
+    "end_datetime": "2013-06-19T11:00"
+  },
+  {
+    "id": 3,
+    "title": "Data Storage Conference",
+    "type": "Conference",
+    "color": "#874822",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Laura Yecies - SugarSync"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-19T10:00",
+    "end_datetime": "2013-06-19T12:00"
+  },
+  {
+    "id": 4,
+    "title": "Technology Research Conference",
+    "type": "Conference",
+    "color": "#814828",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Peter Sondegaard - Gartner"
+      },
+      {
+        "id": 2,
+        "name": "Stavros Isaiadis - AVP Technology"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-19T11:30",
+    "end_datetime": "2013-06-19T12:30"
+  },
+  {
+    "id": 5,
+    "title": "Security Conference",
+    "type": "Conference",
+    "color": "#814898",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Neira Jones - CSCSS"
+      },
+      {
+        "id": 2,
+        "name": "Gary Kneip - Secure IT"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-19T11:30",
+    "end_datetime": "2013-06-19T12:30"
+  },
+  {
+    "id": 6,
+    "title": "Financial Conference",
+    "type": "Conference",
+    "color": "#814898",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Ade McCormack - The Financial Times"
+      },
+      {
+        "id": 2,
+        "name": "Lodewijk Bonebakker - ING"
+      },
+      {
+        "id": 3,
+        "name": "Zubair Ahmed - Emirates Islamic Bank"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-19T12:30",
+    "end_datetime": "2013-06-19T15:00"
+  },
+  {
+    "id": 7,
+    "title": "Startup Conference",
+    "type": "Conference",
+    "color": "#874822",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Liam Boogar - Rude Baguette"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-19T13:00",
+    "end_datetime": "2013-06-19T14:00"
+  },
+  {
+    "id": 8,
+    "title": "Game Conference",
+    "type": "Conference",
+    "color": "#874888",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Raphael Goumot - CREAgile"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-19T13:00",
+    "end_datetime": "2013-06-19T14:00"
+  },
+  {
+    "id": 9,
+    "title": "Eventbrite Conference",
+    "type": "Conference",
+    "color": "#874288",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Renaud Visage - Eventbrite"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-19T15:30",
+    "end_datetime": "2013-06-19T16:30"
+  },
+  {
+    "id": 10,
+    "title": "RedHat Conference",
+    "type": "Conference",
+    "color": "#874288",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Brian Stevens - RedHat"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-19T15:00",
+    "end_datetime": "2013-06-19T18:30"
+  },
+  {
+    "id": 11,
+    "title": "Inovations Conference",
+    "type": "Conference",
+    "color": "#874288",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Bart Vercammen - Technicolor"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-19T15:00",
+    "end_datetime": "2013-06-19T17:00"
+  },
+  {
+    "id": 12,
+    "title": "ING Conference",
+    "type": "Conference",
+    "color": "#824088",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Lodewijk Bonebakker - ING"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-19T17:00",
+    "end_datetime": "2013-06-19T19:00"
+  },
+  {
+    "id": 13,
+    "title": "BCEE Conference",
+    "type": "Conference",
+    "color": "#894918",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Jean Hilger - BCEE"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-19T19:00",
+    "end_datetime": "2013-06-19T20:30"
+  },
+  {
+    "id": 14,
+    "title": "Saleslic Conference",
+    "type": "Conference",
+    "color": "#891111",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Thomas Oriol - Saleslic"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-19T18:00",
+    "end_datetime": "2013-06-19T20:30"
+  },
+  {
+    "id": 15,
+    "title": "HP Conference",
+    "type": "Conference",
+    "color": "#123456",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Geert Kuijken - HP"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-20T10:00",
+    "end_datetime": "2013-06-20T11:00"
+  },
+  {
+    "id": 16,
+    "title": "Mobile Conference",
+    "type": "Conference",
+    "color": "#874422",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Trip Hawkins - Digital Chocolate"
+      },
+      {
+        "id": 2,
+        "name": "Volker Hirsch - Blackberry"
+      },
+      {
+        "id": 3,
+        "name": "Ralph Becker - Sony Mobile Communications"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-20T10:00",
+    "end_datetime": "2013-06-20T11:00"
+  },
+  {
+    "id": 17,
+    "title": "Data Storage Conference",
+    "type": "Conference",
+    "color": "#874822",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Michael Maus - Data4 Luxembourg"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-20T10:00",
+    "end_datetime": "2013-06-20T12:00"
+  },
+  {
+    "id": 18,
+    "title": "Ernst & Young Conference",
+    "type": "Conference",
+    "color": "#814828",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Bart Van Droogenbroek - Ernst & Young"
+      },
+      {
+        "id": 2,
+        "name": "Olivier Lemaire - Ernst & Young"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-20T11:30",
+    "end_datetime": "2013-06-20T12:30"
+  },
+  {
+    "id": 19,
+    "title": "Intech Conference",
+    "type": "Conference",
+    "color": "#814898",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Fabrice Croiseaux - Intech"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-20T11:30",
+    "end_datetime": "2013-06-20T12:30"
+  },
+  {
+    "id": 20,
+    "title": "FLASHIZ Conference",
+    "type": "Conference",
+    "color": "#814898",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Alexandre Rochegude - FLASHIZ"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-20T12:30",
+    "end_datetime": "2013-06-20T15:00"
+  },
+  {
+    "id": 21,
+    "title": "Tango Conference",
+    "type": "Conference",
+    "color": "#874822",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Claude Mihnjak - Tango"
+      },
+      {
+        "id": 2,
+        "name": "Jorge Marques - Tango"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-20T13:00",
+    "end_datetime": "2013-06-20T14:00"
+  },
+  {
+    "id": 22,
+    "title": "Telindus Conference",
+    "type": "Conference",
+    "color": "#874888",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Lorenz Meis - Telindus"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-20T13:00",
+    "end_datetime": "2013-06-20T14:00"
+  },
+  {
+    "id": 23,
+    "title": "Kingston Conference",
+    "type": "Conference",
+    "color": "#874288",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Vincent Oostlander - Kingston Technology"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-20T15:30",
+    "end_datetime": "2013-06-20T16:30"
+  },
+  {
+    "id": 24,
+    "title": "EIF Conference",
+    "type": "Conference",
+    "color": "#874288",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Tatiana Issaeva - European Investissement Fund"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-20T15:00",
+    "end_datetime": "2013-06-20T18:30"
+  },
+  {
+    "id": 25,
+    "title": "iNUI Studio Conference",
+    "type": "Conference",
+    "color": "#874288",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Olivier Raulot - iNUI Studio"
+      }
+    ],
+    "room": "Room 1",
+    "start_datetime": "2013-06-20T15:00",
+    "end_datetime": "2013-06-20T17:00"
+  },
+  {
+    "id": 26,
+    "title": "eTeamsys Conference",
+    "type": "Conference",
+    "color": "#824088",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Mike Mitchell - eTeamsys"
+      }
+    ],
+    "room": "Room 2",
+    "start_datetime": "2013-06-20T17:00",
+    "end_datetime": "2013-06-20T19:00"
+  },
+  {
+    "id": 27,
+    "title": "NFS Conference",
+    "type": "Conference",
+    "color": "#894918",
+    "speakers": [
+      {
+        "id": 1,
+        "name": "Laurent Kratz - NFS"
+      }
+    ],
+    "room": "Conference room",
+    "start_datetime": "2013-06-20T19:00",
+    "end_datetime": "2013-06-20T20:30"
+  }
+]

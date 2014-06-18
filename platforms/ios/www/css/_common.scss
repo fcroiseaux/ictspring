@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Intro';
+    src: url("../fonts/Intro.otf") format("opentype");
+}
+
+$titleShadowColor: rgba(154, 163, 63, 0.55);
+$redColor: rgb(232, 43, 50);
+$yellowColor: #ffa800;
+$greyColor: #737373;
+
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+a {
+    text-decoration: none;
+    text-shadow: none;
+    color: #000;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear: both;
+}

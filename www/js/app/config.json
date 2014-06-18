@@ -1,0 +1,23 @@
+{"event_start_date": "2013-06-19", "event_end_date": "2013-06-20", "page_infos": "http:\/\/www.ictspring.com\/mobile-infos\/",
+    "map": {
+    "image_url": "http:\/\/www.ictspring.com\/wp-content\/themes\/ictspring\/img\/plan.jpg",
+    "last_update": "2013-04-03 15:44:13",
+    "width": 1724,
+    "height": 1996
+}, "twitter_account": "ICTSpring", "twitter_hashtag": "#ictspring", "api": {
+    "news": "http:\/\/ictspring.com\/api\/?query=news",
+    "news_details": "http:\/\/ictspring.com\/api\/?query=news&id=",
+    "speakers": "http:\/\/ictspring.com\/api\/?query=speakers",
+    "speaker_details": "http:\/\/ictspring.com\/api\/?query=speakers&id=",
+    "exhibitors": "http:\/\/ictspring.com\/api\/?query=exhibitors",
+    "exhibitor_details": "http:\/\/ictspring.com\/api\/?query=exhibitors&id=",
+    "calendar": "http:\/\/ictspring.com\/api\/?query=calendar",
+    "calendar_details": "http:\/\/ictspring.com\/api\/?query=calendar&id=",
+    "map": "http:\/\/ictspring.com\/api\/?query=map",
+    "partners": "http:\/\/www.ictspring.com\/api\/?query=partners",
+    "partner_details": "http:\/\/www.ictspring.com\/api\/?query=partners&id=",
+    "sponsors": "http:\/\/www.ictspring.com\/api\/?query=sponsors",
+    "sponsor_details": "http:\/\/www.ictspring.com\/api\/?query=sponsors&id=",
+    "startups": "http:\/\/www.ictspring.com\/api\/?query=startups",
+    "startup_details": "http:\/\/www.ictspring.com\/api\/?query=startups&id="
+}}
