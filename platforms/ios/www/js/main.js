@@ -3,6 +3,9 @@ require.config({
         iScroll: {
             deps: ['jquery']
         },
+        nicescroll: {
+            deps: ['jquery']
+        },
         leaflet: {
             exports: 'L'
         },
@@ -14,6 +17,7 @@ require.config({
         jquery: 'libs/jquery/jquery',
         moment: 'libs/moment/moment.min',
         iScroll: 'libs/iscroll/iscroll',
+        nicescroll: 'libs/nicescroll/jquery.nicescroll.min',
         leaflet: 'libs/leaflet/leaflet',
         leafletlabel: 'libs/leaflet/leaflet.label-src'
     }
@@ -54,7 +58,7 @@ function onNotificationGCM(e) {
     }
 }
 
-require(['jquery', 'app/ctrl/controller', 'iScroll'],
+require(['jquery', 'app/ctrl/controller', 'iScroll', 'nicescroll'],
     function ($, app) {
     "use strict";
     console.log('[require] scripts loaded');

@@ -1,4 +1,4 @@
-define(['jquery', 'app/loading'], function ($, Loading) {
+define(['jquery', 'nicescroll', 'app/loading'], function ($, Loading) {
     "use strict";
 
     var controller = {
@@ -14,12 +14,13 @@ define(['jquery', 'app/loading'], function ($, Loading) {
          * Called when the view is loaded.
          */
         onshow: function () {
-      /*      var self = this;
+            var self = this;
 
-            self.destroyScroller();
-            self.scroller = new iScroll($('[data-role="content-wrapper"]')[0]);
+            //self.destroyScroller();
+            //self.scroller = new iScroll('#page-meetandmatch');
+            $("#meetandmatch-wrapper").niceScroll("#meetandmatch-frame",{autohidemode:false});
 
-            self.loadData();*/
+          //  self.loadData();
         },
 
         /**
@@ -51,18 +52,8 @@ define(['jquery', 'app/loading'], function ($, Loading) {
          * If it fails try to load the news from local storage.
          */
         loadData: function () {
-            var self = this,
-                url = "http:\/\/www.ictspring.com\/meet-and-match\/";
-
-            console.log("URL : " + url);
-            $.get(url, function (data) {
-                console.log(data);
-                $('#page-meetandmatch #infos-wrapper').html(data);
-                $('#page-meetandmatch #infos-wrapper').append('<div class="clear"></div>');
-                self.scroller.refresh();
-            }).fail(function () {
-
-            });
+            $('#page-meetandmatch #meetandmatch-wrapper').append('<div class="clear"></div>');
+            self.scroller.refresh();
         }
     };
 

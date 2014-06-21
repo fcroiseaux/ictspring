@@ -4,12 +4,12 @@ define(['jquery', 'app/navigation', 'libs/uri/URI',
     'app/ctrl/NewsDetailsCtrl', 'app/ctrl/SpeakerCtrl', 'app/ctrl/ExhibitorCtrl',
     'app/ctrl/InfosCtrl', 'app/ctrl/StartupsCtrl', 'app/ctrl/StartupCtrl',
     'app/ctrl/SponsorsCtrl', 'app/ctrl/SponsorCtrl',
-    'app/ctrl/PartnersCtrl', 'app/ctrl/PartnerCtrl', 'app/ctrl/MeetAndMatchCtrl'],
+    'app/ctrl/PartnersCtrl', 'app/ctrl/PartnerCtrl', 'app/ctrl/MeetAndMatchCtrl', 'app/ctrl/Geekcoin'],
 function ($, Navigation, URI,
     index, speakers, exhibitors, events,
     map, newsDetails, speaker, exhibitor,
     infos, startups, startup, sponsors, sponsor,
-    partners, partner, meetandmatch) {
+    partners, partner, meetandmatch, geekcoin) {
     "use strict";
     var controllers = {
         'page-index': index,
@@ -27,7 +27,8 @@ function ($, Navigation, URI,
         'page-partner': partner,
         'page-partners': partners,
         'page-infos': infos,
-        'page-meetandmatch': meetandmatch
+        'page-meetandmatch': meetandmatch,
+        'page-geekcoin': geekcoin
     };
 
     return {

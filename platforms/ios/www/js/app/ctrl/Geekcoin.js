@@ -1,4 +1,4 @@
-define(['jquery', 'nicescroll', 'app/loading'], function ($, Loading) {
+define(['jquery', 'app/loading'], function ($, Loading) {
     "use strict";
 
     var controller = {
@@ -14,13 +14,12 @@ define(['jquery', 'nicescroll', 'app/loading'], function ($, Loading) {
          * Called when the view is loaded.
          */
         onshow: function () {
-            var self = this;
+      /*      var self = this;
 
-            //self.destroyScroller();
-            //self.scroller = new iScroll('#page-meetandmatch');
-            $("#meetandmatch-wrapper").niceScroll("#meetandmatch-frame",{autohidemode:false});
+            self.destroyScroller();
+            self.scroller = new iScroll($('[data-role="content-wrapper"]')[0]);
 
-          //  self.loadData();
+            self.loadData();*/
         },
 
         /**
@@ -52,8 +51,7 @@ define(['jquery', 'nicescroll', 'app/loading'], function ($, Loading) {
          * If it fails try to load the news from local storage.
          */
         loadData: function () {
-            $('#page-meetandmatch #meetandmatch-wrapper').append('<div class="clear"></div>');
-            self.scroller.refresh();
+
         }
     };
 
